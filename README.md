@@ -1,4 +1,3 @@
-# AICTE-Edunet-TechSaksham-Internship-Project
 # AI Healthcare Assistant Chatbot
 
 ## Overview
@@ -17,7 +16,7 @@ To run this chatbot locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AI-Healthcare-Assistant.git
+   git clone https://github.com/vinayvinay0/AICTE-Edunet-TechSaksham-Internship-Project.git
    cd AI-Healthcare-Assistant
    ```
 2. Create a virtual environment (optional but recommended):
@@ -61,11 +60,11 @@ AI-Healthcare-Assistant/
 - Voice input and response features.
 
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the **AICTE License**.
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## Contact
-For any questions or feedback, reach out to **[Your Email/LinkedIn/GitHub]**.
+For any questions or feedback, reach out to **https://github.com/vinayvinay0**.
 
